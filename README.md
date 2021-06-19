@@ -1,3 +1,5 @@
+[![Email](ayush.bansal.cse20@itbhu.ac.in)]
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Android Development
@@ -7,7 +9,7 @@
 - ⚡ Fun fact: Potter head
 
 ### Contact me 🙌
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />ayush.bansal.cse20@itbhu.ac.in
+[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Email]
 
 ### Languages and Tools:
 
