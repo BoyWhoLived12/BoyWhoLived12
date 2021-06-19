@@ -1,4 +1,4 @@
-[![Email](ayush.bansal.cse20@itbhu.ac.in)]
+[![Email](https://www.instagram.com/ayush01bansal/)]
 
 ### Hi there 👋
 
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Potter head
 
 ### Contact me 🙌
-[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Email]
+[<img align="left" alt="codeSTACKr | Instagram " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Email]
 
 ### Languages and Tools:
 
