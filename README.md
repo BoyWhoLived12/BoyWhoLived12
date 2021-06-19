@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://th.bing.com/th/id/OIP.4FZPzYUtPxr18hVlRWstfQHaF7?w=234&h=187&c=7&o=5&dpr=1.25&pid=1.7" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.istockphoto.com/vectors/programmer-and-process-coding-programming-concept-vector-id469577876?k=6&m=469577876&s=612x612&w=0&h=K_vA-xwDfWa3nRVURE-wUISGjSdoHFcVPpSR-d7tSAg=" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush</h1>
 <h3 align="center">I'm a student from India Learning Programing</h3>
