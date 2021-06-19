@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Kotlin and Android Studio
 - 👯 I’m looking to work on something new
 - 📫 How to reach me: Email: ayush.bansal.cse20@itbhu.ac.in
-- - ⚡ Fun fact: Potter head
+- ⚡ Fun fact: Potter head
 
 <!--
 **BoyWhoLived12/BoyWhoLived12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
