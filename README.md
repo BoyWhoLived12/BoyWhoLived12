@@ -14,8 +14,11 @@
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/kotlin.svg" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/android-icon.svg" />
 <img align="left" alt="Android-Studio" width="26px" src="https://th.bing.com/th/id/OIP.xJsCfTQq7Wl45YMjCaHrvgHaHa?w=200&h=200&c=7&o=5&dpr=1.25&pid=1.7" />
+
 <br/>
 <br/>
+
+
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d?si=c5963ba16d8c4a3a)
